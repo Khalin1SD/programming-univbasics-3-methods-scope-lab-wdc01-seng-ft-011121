@@ -15,7 +15,7 @@ def link
   puts phrase
 end
 
-def all_phrases("Thank You Mario! But Our Princess Is In Another Castle!", toadstool, link)
+def all_phrases(mario, toadstool, link)
   return all_phrases
 end
 
