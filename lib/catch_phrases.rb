@@ -16,7 +16,8 @@ def link
 end
 
 def all_phrases(mario, toadstool, link)
-  mario = "Thank You Mario! But Our Princess Is In Another Castle!"
-  toadstool = ""
+  mario = "It's-a me, Mario!"
+  toadstool = "Thank You Mario! But Our Princess Is In Another Castle!"
+  link = ""
 end
 
