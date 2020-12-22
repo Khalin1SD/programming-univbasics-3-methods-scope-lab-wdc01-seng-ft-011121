@@ -16,5 +16,6 @@ def link
 end
 
 def all_phrases(mario, toadstool, link)
+  return puts all_phrases
 end
 
